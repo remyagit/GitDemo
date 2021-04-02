@@ -16,7 +16,7 @@ public class HomePage extends base {
 
 		driver = initializeDriver();
 		driver.get(prop.getProperty("url"));
-
+System.out.println("free crm");
 	}
 
 	@Test
