@@ -29,7 +29,7 @@ public class base {
 
 			System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chromedriver.exe");
 			driver = new ChromeDriver();
-			system.out.println("on chrome");
+			system.out.println("on chrome browsers");
 		}
 		
 		// else if (browserName.equals("firefox"))
